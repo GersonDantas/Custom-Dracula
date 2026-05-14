@@ -1,7 +1,7 @@
-id = "dracula"
+id = "dracula_by_gerson"
 name = "Dracula"
-version = "0.0.1"
+version = "1.0.0"
 schema_version = 1
 authors = ["Gerson Dantas"]
 description = "Dracula By Gerson"
-repository = "https://github.com/your-name/my-zed-extension"
+repository = "https://github.com/GersonDantas/Custom-Dracula"
