@@ -13,9 +13,11 @@ Tema customizado inspirado no Dracula para o editor [Zed](https://zed.dev/).
 
 ## Prints
 
-![Print 1](./docs/print-1.png)
+![Print 1](./screenshots/print-1.png)
 
-![Print 2](./docs/print-2.png)
+![Print 2](./screenshots/print-2.png)
+
+![Print 3](./screenshots/print-3.png)
 
 ## Autor
 
