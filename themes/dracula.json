@@ -1,0 +1,207 @@
+{
+  "$schema": "https://zed.dev/schema/themes/v0.2.0.json",
+  "name": "Dracula",
+  "author": "Gerson Dantas",
+  "themes": [
+    {
+      "name": "Dracula Refined Gerson",
+      "appearance": "dark",
+      "style": {
+        "border": "#3B426155",
+        "border.variant": "#2F334466",
+        "border.focused": "#c4a7e788",
+        "border.selected": "#c4a7e744",
+        "background": "#232530",
+        "surface.background": "#1E2029",
+        "element.background": "#232530",
+        "element.hover": "#3B426144",
+        "element.active": "#4C566A55",
+        "element.selected": "#4C566A44",
+        "editor.background": "#232530",
+        "editor.gutter.background": "#232530",
+        "editor.subheader.background": "#1E2029",
+        "editor.active_line.background": "#2F334455",
+        "editor.line_number": "#6B7394",
+        "editor.active_line_number": "#E6EDF3",
+        "toolbar.background": "#232530",
+        "tab.inactive_background": "#1E2029",
+        "tab.active_background": "#232530",
+        "title_bar.background": "#1A1C24EE",
+        "text": "#E6EDF3",
+        "text.muted": "#A9B1D6",
+        "text.placeholder": "#7C859F",
+        "text.disabled": "#5B627A",
+        "text.accent": "#E6EDF3",
+        "icon": "#E6EDF3",
+        "icon.muted": "#A9B1D6",
+        "icon.disabled": "#5B627A",
+        "icon.accent": "#E6EDF3",
+        "scrollbar.thumb.background": "#4C566A66",
+        "scrollbar.thumb.hover_background": "#6B739499",
+        "minimap.thumb.background": "#4C566A66",
+        "minimap.thumb.hover_background": "#6B739499",
+        "players": [
+          {
+            "cursor": "#FFFFFF",
+            "background": "#c4a7e7",
+            "selection": "#c4a7e733"
+          },
+          {
+            "cursor": "#7EE787",
+            "background": "#7EE787",
+            "selection": "#7EE78733"
+          },
+          {
+            "cursor": "#f38bbd",
+            "background": "#f38bbd",
+            "selection": "#f38bbd33"
+          },
+          {
+            "cursor": "#E5C07B",
+            "background": "#E5C07B",
+            "selection": "#E5C07B33"
+          },
+          {
+            "cursor": "#89ddff",
+            "background": "#89ddff",
+            "selection": "#89ddff33"
+          },
+          {
+            "cursor": "#f7768e",
+            "background": "#f7768e",
+            "selection": "#f7768e33"
+          }
+        ],
+        "syntax": {
+          "attribute": {
+            "color": "#7EE787"
+          },
+          "boolean": {
+            "color": "#c4a7e7"
+          },
+          "comment": {
+            "color": "#7C859F",
+            "font_style": "italic"
+          },
+          "constant": {
+            "color": "#c4a7e7"
+          },
+          "constructor": {
+            "color": "#89ddff"
+          },
+          "embedded": {
+            "color": "#E6EDF3"
+          },
+          "emphasis": {
+            "font_style": "italic"
+          },
+          "enum": {
+            "color": "#89ddff"
+          },
+          "function": {
+            "color": "#89ddff"
+          },
+          "hint": {
+            "color": "#6B7394"
+          },
+          "keyword": {
+            "color": "#f38bbd"
+          },
+          "label": {
+            "color": "#89ddff"
+          },
+          "link_text": {
+            "color": "#89ddff"
+          },
+          "number": {
+            "color": "#c4a7e7"
+          },
+          "operator": {
+            "color": "#f38bbd"
+          },
+          "predictive": {
+            "color": "#6B7394"
+          },
+          "preproc": {
+            "color": "#f38bbd"
+          },
+          "primary": {
+            "color": "#E6EDF3"
+          },
+          "property": {
+            "color": "#89ddff"
+          },
+          "punctuation": {
+            "color": "#E6EDF3"
+          },
+          "punctuation.bracket": {
+            "color": "#A9B1D6"
+          },
+          "punctuation.delimiter": {
+            "color": "#A9B1D6"
+          },
+          "punctuation.list_marker": {
+            "color": "#f38bbd"
+          },
+          "punctuation.special": {
+            "color": "#f38bbd"
+          },
+          "string": {
+            "color": "#E5C07B"
+          },
+          "string.escape": {
+            "color": "#ffb86c"
+          },
+          "string.regex": {
+            "color": "#ffb86c"
+          },
+          "tag": {
+            "color": "#f38bbd"
+          },
+          "text.literal": {
+            "color": "#E5C07B"
+          },
+          "title": {
+            "color": "#7EE787"
+          },
+          "type": {
+            "color": "#7EE787"
+          },
+          "variable": {
+            "color": "#E6EDF3"
+          },
+          "variable.special": {
+            "color": "#f7768e"
+          },
+          "variant": {
+            "color": "#89ddff"
+          }
+        },
+        "accents": [
+          "#c4a7e7",
+          "#f38bbd",
+          "#89ddff",
+          "#7EE787",
+          "#ffb86c",
+          "#E5C07B",
+          "#f7768e"
+        ],
+        "elevated_surface.background": "#1E2029",
+        "panel.background": "#1E2029",
+        "panel.focused_border": "#c4a7e788",
+        "panel.overlay_background": "#1E2029",
+        "panel.overlay_hover": "#232530",
+        "pane.focused_border": "#c4a7e788",
+        "link_text.hover": "#E6EDF3",
+        "editor.highlighted_line.background": "#1E2029",
+        "status_bar.background": "#232530",
+        "ghost_element.active": "#4C566A55",
+        "ghost_element.selected": "#4C566A44",
+        "tab_bar.background": "#1E2029",
+        "terminal.background": "#232530"
+      }
+    }
+  ],
+  "isUserGenerated": true,
+  "description": "Dracula By Gerson"
+}
