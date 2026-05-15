@@ -206,8 +206,8 @@
         "version_control.deleted": "#BD0000FF",
         "version_control.added": "#429F5DFF",
         "version_control.modified": "#CCB63FFF",
-        "version_control.conflict_marker.ours": "#429F5DFF",
-        "version_control.conflict_marker.theirs": "#7B65A3FF",
+        "version_control.conflict_marker.ours": "#429F5D59",
+        "version_control.conflict_marker.theirs": "#7B65A359",
         "version_control.renamed": "#FFB86CFF",
         "version_control.conflict": "#FF5555FF",
         "version_control.ignored": "#6272A4FF"
